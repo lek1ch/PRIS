@@ -176,12 +176,12 @@
 
 ## 4. Диаграммы и архитектура
 
-- [Диаграмма BPMN - текущий процесс модерации](./diagrams/current_process_bpmn.png)
-- [Диаграмма BPMN - процесс с ML-системой](./diagrams/ml_enhanced_process_bpmn.png) 
-- [ER-диаграмма структуры данных](./diagrams/data_model_er.png)
-- [Диаграмма компонентов](./diagrams/component_diagram_uml.png)
-- [Диаграмма последовательности](./diagrams/sequence_diagram_uml.png)  
-- [Диаграмма прецедентов](./diagrams/use_case_diagram_uml.png)
+- [Диаграмма BPMN - текущий процесс модерации](bpmn.png)
+- [Диаграмма BPMN - процесс с ML-системой](bpmn.png) 
+- [ER-диаграмма структуры данных](er.jpg)
+- [Диаграмма компонентов](Components.png)
+- [Диаграмма последовательности](sequences.jpg)  
+- [Диаграмма прецедентов](usecase.jpg)
 
 ---
 
