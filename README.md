@@ -176,15 +176,9 @@
 
 ## 4. Диаграммы и архитектура
 
-### 4.1 Модели бизнес-процессов
 - [Диаграмма BPMN - текущий процесс модерации](./diagrams/current_process_bpmn.png)
-- [Диаграмма BPMN - процесс с ML-системой](./diagrams/ml_enhanced_process_bpmn.png)
-
-### 4.2 Архитектура данных  
+- [Диаграмма BPMN - процесс с ML-системой](./diagrams/ml_enhanced_process_bpmn.png) 
 - [ER-диаграмма структуры данных](./diagrams/data_model_er.png)
-- [Диаграмма архитектуры системы](./diagrams/system_architecture.png)
-
-### 4.3 UML диаграммы
 - [Диаграмма компонентов](./diagrams/component_diagram_uml.png)
 - [Диаграмма последовательности](./diagrams/sequence_diagram_uml.png)  
 - [Диаграмма прецедентов](./diagrams/use_case_diagram_uml.png)
